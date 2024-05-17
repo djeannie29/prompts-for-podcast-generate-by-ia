@@ -38,7 +38,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,7 +46,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -63,6 +63,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
+
+## 🛠️ Prompts Usados
+
+
+- 🤖 1. "Crie um script para um episódio de podcast que educa os ouvintes sobre as ferramentas essenciais de Python para análise de dados. Inclua seções sobre Pandas, NumPy, Matplotlib e Scikit-learn, e explique como essas bibliotecas ajudam na manipulação, análise, visualização e aprendizado de máquina."
+- 🤖 2.Escreva a transcrição de um episódio de podcast focado em profissionais júnior de tecnologia que estão começando na área de Ciência de Dados. Destaque as bibliotecas Pandas, NumPy, Matplotlib e Scikit-learn, explicando como cada uma pode ser usada para manipulação de dados, operações matemáticas, visualização de dados e aprendizado de máquina."
 
 ## 👨‍💻 Expert
 
